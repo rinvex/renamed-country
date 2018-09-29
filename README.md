@@ -2,7 +2,7 @@
 
 **Rinvex Country** is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of data including name, demonym, capital, iso codes, dialling codes, geo data, currencies, flags, emoji, and other attributes for all 250 countries worldwide at your fingertips.
 
-⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/countries](https://github.com/rinvex/countries)** package instead. ⚠️
+⚠️ This package is **renamed** and now maintained at **[rinvex/countries](https://github.com/rinvex/countries)**, author suggests using the new package instead.
 
 [![Packagist](https://img.shields.io/packagist/v/rinvex/country.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/country)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/country.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/country/)
